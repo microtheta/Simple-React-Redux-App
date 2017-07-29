@@ -2,7 +2,7 @@
 
 ## How do I get started?
   - Install node.js
-  - `git clone https://github.com/thumarmahesh/Simple-React-Redux-App.git`
+  - `git clone https://github.com/microtheta/Simple-React-Redux-App.git`
   - `npm install`
   - `npm start`
 
