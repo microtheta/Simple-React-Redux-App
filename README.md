@@ -1,8 +1,8 @@
-# Web App demo for React, Redux, Bootstrap
+# Web App: React, Redux, React-Router, Bootstrap
 
 ## How do I get started?
   - Install node.js
-  - `git clone ...`
+  - `git clone https://github.com/thumarmahesh/Simple-React-Redux-App.git`
   - `npm install`
   - `npm start`
 
